@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  cs441-hello-world
 //
-//  Created by John Doe on 1/28/19.
+//  Created by Robert Burton on 1/28/19.
 //  Copyright © 2019 Robert Burton. All rights reserved.
 //
 
